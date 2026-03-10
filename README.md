@@ -41,7 +41,7 @@ To run this code, the following libraries must be installed in the Arduino IDE:
 3. Ensure the required libraries are installed.
 4. Connect the Arduino to your computer via USB.
 5. Select the correct board (Arduino Uno) and COM port in the IDE.
-6. Upload the sketch. After a brief boot screen showing "Temperatur & Luftfeuchtigkeit" , the display will update with the current readings every 5 seconds.
+6. Upload the sketch. After a brief boot screen showing "Temperatur & Luftfeuchtigkeit", the display will update with the current readings every 5 seconds.
 
 ## 📸 Gallery
 
